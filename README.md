@@ -12,8 +12,7 @@ This repository contains code for language translation using the Transformer Dec
 - [Introduction](#introduction)
 - [Learning Objectives](#learning-objectives)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
